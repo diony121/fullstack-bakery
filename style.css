@@ -1,0 +1,26 @@
+header {
+  display: flex;
+  align-items: baseline;
+  align-content: center;
+  justify-content: space-between;
+}
+
+.brand {
+  color: rgb(198, 12, 12);
+  font-size: 2rem;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: bold;
+}
+
+nav {
+  display: flex;
+  gap: 1rem;
+
+}
+
+nav a {
+  text-decoration: none;
+  color: gray;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
+}
